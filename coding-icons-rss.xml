@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CODING Icons Library</title>
+    <description>CODING Sketch Library</description>
+    <image>
+      <url>https://codingcorp.coding.net/p/Design-Center/d/coding-sketch-library-share/git/raw/master/Coding-Icons-Library-Avatar.png</url>
+      <title>CODING Icons Library</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>CODING Icons - RSS</title>
+      <pubDate>Wed, 01 Jun 2000 10:10:10 +0000</pubDate>
+      <enclosure url="https://codingcorp.coding.net/p/Design-Center/d/coding-sketch-library-share/git/raw/master/Coding-Icons.sketch" type="application/octet-stream" sparkle:version="8"/>
+    </item>
+  </channel>
+</rss>

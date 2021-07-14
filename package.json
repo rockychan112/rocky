@@ -1,0 +1,11 @@
+{
+  "name": "coding-sketch-library-share",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": "git@e.coding.net:codingcorp/tank-test/coding-sketch-library-share.git",
+  "author": "tankxu <hellotank@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "abstract-sdk": "^8.1.1"
+  }
+}
